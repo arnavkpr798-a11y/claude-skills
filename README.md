@@ -1,6 +1,11 @@
-# Claude skills I actually use
+# Free AI skills and prompts I actually use
 
-Free Claude Code skills from my "Steal my Claude skill" series on Instagram ([@official_arnavkapoor](https://www.instagram.com/official_arnavkapoor/)).
+Free Claude Code skills and prompts from my Instagram ([@official_arnavkapoor](https://www.instagram.com/official_arnavkapoor/)).
+
+| What | Link |
+|---|---|
+| **AI teaches you AI**: a master prompt that interviews you and builds you a custom AI course (ChatGPT or Claude) | [prompts/ai-course.md](prompts/ai-course.md) |
+| **check**: a Claude Code skill that makes Claude check its own work before it says "done" | [check/SKILL.md](check/SKILL.md) |
 
 ## check: makes Claude check its own work before it says "done"
 
