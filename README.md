@@ -4,6 +4,7 @@ Free Claude Code skills and prompts from my Instagram ([@official_arnavkapoor](h
 
 | What | Link |
 |---|---|
+| **Fly through the solar system**: a master prompt that builds a cinematic 3D solar system you fly at 3,000× light (from "Can Claude do it? #2") | [prompts/solar-system.md](prompts/solar-system.md) |
 | **AI teaches you AI**: a master prompt that interviews you and builds you a custom AI course (ChatGPT or Claude) | [prompts/ai-course.md](prompts/ai-course.md) |
 | **check**: a Claude Code skill that makes Claude check its own work before it says "done" | [check/SKILL.md](check/SKILL.md) |
 
